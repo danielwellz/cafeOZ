@@ -20,39 +20,44 @@ body {
   }
 
   .left-buttons {
-      width: 95%;
-      margin: 16%;
+      width: 35%;
+      margin: 5%;
       background-color: black;
       padding: 2%;
       color: white;
       border-radius: 10px;
   }
 
+  a {
+    color: white;
+    text-decoration: none;
+  }
+
+  .details {
+      font-size: small;
+  }
+
   .alignr {
 float: right;
 text-align: right;
-width: 65%;
+width: 75%;
   }
 
   .alignl {
 float: left;
 text-align: left;
-width: 35%;
+width: 25%;
   }
 
   #menu {
     /* font-family: 'Noto Nastaliq Urdu', serif; */
       background-color: black;
       color: white;
-      width: 50%;
+      width: 80%;
       border-radius: 10px;
       padding: 3%;
       margin: 3%;
   }
-
-  #pay {
-      font-size: medium;
-  } 
 
   .map {
     padding: 5px;
