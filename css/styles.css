@@ -1,0 +1,54 @@
+body {
+    font-family: 'Vazirmatn', sans-serif;
+    font-size: larger;
+    font-weight: 300;
+    background-color: #393a3c;
+  }
+  h1 {
+    color: rgb(183, 3, 3);
+  }
+  .ozLogo {
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 25%;
+  }
+
+  .left-buttons {
+      margin: 6%;
+      background-color: black;
+      padding: 2%;
+      color: white;
+      border-radius: 10px;
+  }
+
+  .alignr {
+float: right;
+text-align: right;
+width: 50%;
+  }
+
+  .alignl {
+float: left;
+text-align: left;
+width: 50%;
+  }
+
+  #menu {
+    /* font-family: 'Noto Nastaliq Urdu', serif; */
+      background-color: black;
+      color: white;
+      width: 35%;
+      border-radius: 10px;
+      padding: 3%;
+      margin: 3%;
+  }
+  .bottom-buttons {
+    margin: 2%;
+    background-color: black;
+    padding: 1%;
+    color: white;
+    width: auto;
+    border-radius: 10px;
+}
