@@ -1,8 +1,12 @@
+
+
 body {
+    background-size: 100%;
     font-family: 'Vazirmatn', sans-serif;
     font-size: larger;
     font-weight: 300;
-    background-color: #393a3c;
+    /* background-color: #393a3c; */
+    background-image: url('../images/Untitled\ design\ \(1\).jpg');
   }
   h1 {
     color: rgb(183, 3, 3);
